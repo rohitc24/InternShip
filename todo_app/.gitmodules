@@ -1,0 +1,3 @@
+[submodule "InternShip"]
+	path = InternShip
+	url = https://github.com/rohitc24/InternShip.git
